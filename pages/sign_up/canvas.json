@@ -217,7 +217,7 @@
                             {
                               "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
                               "widgetName": "FilePicker2CopyCopy",
-                              "buttonColor": "#27272a",
+                              "buttonColor": "#6b21a8",
                               "displayName": "FilePicker",
                               "iconSVG": "/static/media/icon.7c5ad9c357928c6ff5701bf51a56c2e5.svg",
                               "searchTags": [
@@ -513,7 +513,7 @@
                               "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
                               "widgetName": "Button1",
                               "onClick": "{{showAlert('email sent successfully','success')}}",
-                              "buttonColor": "#27272a",
+                              "buttonColor": "#7e22ce",
                               "dynamicPropertyPathList": [],
                               "displayName": "Button",
                               "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
@@ -534,7 +534,7 @@
                               ],
                               "leftColumn": 18,
                               "dynamicBindingPathList": [],
-                              "text": "SIGN UP",
+                              "text": "SIGNUP",
                               "isDisabled": false,
                               "key": "fecv0b47yn",
                               "isDeprecated": false,
