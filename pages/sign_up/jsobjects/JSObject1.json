@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "sign_up",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\t\n\tmyFun1: () => {\n\t\tshowAlert('EMIAL SENT SUCCESSFULLY','success'),\n   navigateTo('select', {}, 'SAME_WINDOW');\n\t},\n\t",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "sign_up_JSObject1",
+  "deleted": false,
+  "gitSyncId": "637b01d611c27b6b2f66eb9b_637c49ba3d59b3216e32aa16"
+}
