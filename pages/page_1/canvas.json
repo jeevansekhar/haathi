@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "sign_in",
-    "slug": "sign-in",
+    "name": "page_1",
+    "slug": "page-1",
     "layouts": [
       {
         "viewMode": false,
@@ -829,7 +829,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "sign_in",
+        "id": "page_1",
         "deleted": false,
         "policies": [],
         "userPermissions": []

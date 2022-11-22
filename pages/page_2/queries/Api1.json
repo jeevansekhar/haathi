@@ -15,7 +15,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "sign_up",
+    "pageId": "page_2",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -63,7 +63,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "sign_up_Api1",
+  "id": "page_2_Api1",
   "deleted": false,
   "gitSyncId": "637b01d611c27b6b2f66eb9b_637c4a8fedd1383aca0b86a2"
 }

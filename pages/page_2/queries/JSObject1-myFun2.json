@@ -13,8 +13,8 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "sign_up",
-    "collectionId": "sign_up_JSObject1",
+    "pageId": "page_2",
+    "collectionId": "page_2_JSObject1",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -42,7 +42,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "sign_up_JSObject1.myFun2",
+  "id": "page_2_JSObject1.myFun2",
   "deleted": false,
   "gitSyncId": "637b01d611c27b6b2f66eb9b_637c49ba3d59b3216e32aa13"
 }

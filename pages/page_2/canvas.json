@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "sign_up",
-    "slug": "sign-up",
+    "name": "page_2",
+    "slug": "page-2",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1010,
+          "bottomRow": 990,
           "containerStyle": "none",
           "snapRows": 80,
           "parentRowSpace": 1,
@@ -38,7 +38,7 @@
                 "group"
               ],
               "topRow": 0,
-              "bottomRow": 93,
+              "bottomRow": 91,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,
@@ -64,7 +64,7 @@
                   "widgetName": "Canvas2",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 860,
+                  "bottomRow": 890,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -92,7 +92,7 @@
                         "group"
                       ],
                       "topRow": 23,
-                      "bottomRow": 84,
+                      "bottomRow": 87,
                       "parentRowSpace": 10,
                       "type": "FORM_WIDGET",
                       "hideCard": false,
@@ -652,7 +652,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "sign_up",
+        "id": "page_2",
         "deleted": false,
         "policies": [],
         "userPermissions": []

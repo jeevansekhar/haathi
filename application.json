@@ -5,15 +5,15 @@
       "isDefault": true
     },
     {
-      "id": "sign_in",
+      "id": "page_1",
       "isDefault": false
     },
     {
-      "id": "sign_up",
+      "id": "page_2",
       "isDefault": false
     },
     {
-      "id": "select",
+      "id": "page_3",
       "isDefault": false
     }
   ],
